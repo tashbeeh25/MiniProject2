@@ -1,0 +1,8 @@
+CE151 sands 50 Inroduction to Programming
+CE152 norbert 50 Object-Oriented Programming
+CE153 foxcj 50 Introduction to Databases
+CE203 udo 40 Application Programming
+CE204 sands 30 Data Structures and Algorithms
+CE221 sands 40 C++ Programming
+CE242 martin 30 C Programming and Embedded Systems
+CE303 norbert 40 Advanced Programming

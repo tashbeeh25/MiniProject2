@@ -1,0 +1,17 @@
+CE151 ass1 65.5
+CE151 test 55.5
+CE203 ass1 65.3
+CE203 ass2 55.7
+CE151 ass2 50.8
+CE151 test 58.5
+CE221 ass1 70.7
+CE221 ass2 50.5
+CE151 exam 52.5
+CE203 exam 25.0
+CE153 test 60.8
+CE221 exam 85.0
+CE154 test 55.5
+CE152 ass1 60.7
+CE152 text 55.5
+CE242 exam 52.5
+

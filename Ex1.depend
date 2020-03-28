@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1535010095 source:c:\users\tashbeeh\desktop\ass2\ex1\main.cpp
+	<iostream>
+	<fstream>
+	<stdexcept>
+	"Module.h"
+	<vector>
+	<algorithm>
+	<iomanip>
+	<ostream>
+
+1535010052 c:\users\tashbeeh\desktop\ass2\ex1\module.h
+	<iostream>
+	<string>
+	<map>
+	<stdexcept>
+
+1535010006 source:c:\users\tashbeeh\desktop\ass2\ex1\module.cpp
+	<string>
+	<map>
+	<stdexcept>
+	"Module.h"
+	<iostream>
+	<iomanip>
+
